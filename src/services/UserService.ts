@@ -1,6 +1,6 @@
 import UserApi from "../api/userApi";
 
-import { useUserStore } from "../stores/userStore";
+import { useUserStore } from "../stores/UserStore";
 
 import { createApp } from "vue";
 import { createPinia } from 'pinia'

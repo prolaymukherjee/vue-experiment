@@ -1,4 +1,4 @@
-import { useCourseStore } from "../stores/courseStore";
+import { useCourseStore } from "../stores/CourseStore";
 
 import { createApp } from "vue";
 import { createPinia } from 'pinia'
